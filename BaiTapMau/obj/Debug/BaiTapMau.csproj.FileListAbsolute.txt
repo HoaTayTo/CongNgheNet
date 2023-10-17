@@ -1,0 +1,10 @@
+C:\CongNghe.Net\BaiTapTuan08\BaiTapMau\bin\Debug\BaiTapMau.exe.config
+C:\CongNghe.Net\BaiTapTuan08\BaiTapMau\bin\Debug\BaiTapMau.exe
+C:\CongNghe.Net\BaiTapTuan08\BaiTapMau\bin\Debug\BaiTapMau.pdb
+C:\CongNghe.Net\BaiTapTuan08\BaiTapMau\obj\Debug\BaiTapMau.csproj.AssemblyReference.cache
+C:\CongNghe.Net\BaiTapTuan08\BaiTapMau\obj\Debug\BaiTapMau.Properties.Resources.resources
+C:\CongNghe.Net\BaiTapTuan08\BaiTapMau\obj\Debug\BaiTapMau.csproj.GenerateResource.cache
+C:\CongNghe.Net\BaiTapTuan08\BaiTapMau\obj\Debug\BaiTapMau.csproj.CoreCompileInputs.cache
+C:\CongNghe.Net\BaiTapTuan08\BaiTapMau\obj\Debug\BaiTapMau.exe
+C:\CongNghe.Net\BaiTapTuan08\BaiTapMau\obj\Debug\BaiTapMau.pdb
+C:\CongNghe.Net\BaiTapTuan08\BaiTapMau\obj\Debug\BaiTapMau.frm3Layer.resources
